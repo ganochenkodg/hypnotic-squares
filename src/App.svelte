@@ -299,14 +299,14 @@
 		context = canvas.getContext('2d');
 		canvasPadding = 200;
 		if (window.innerWidth < 600 || window.innerHeight < 600) {
-			canvasPadding = 50;
+			canvasPadding = 80;
 		}
 		size = window.innerWidth < window.innerHeight ? window.innerWidth - canvasPadding : window.innerHeight - canvasPadding;
-		dpr = window.devicePixelRatio;
+//		dpr = window.devicePixelRatio;
 
-		canvas.width = size * dpr;
-		canvas.height = size * dpr;
-		context.scale(dpr, dpr);
+		canvas.width = size;
+		canvas.height = size ;
+//		context.scale(dpr, dpr);
 		context.lineWidth = 2;
 
 		tileStep = (size - offset * 2) / 8;
