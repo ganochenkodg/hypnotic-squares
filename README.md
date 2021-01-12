@@ -4,7 +4,7 @@
 ![](https://github.com/ganochenkodg/hypnotic-squares/blob/main/screenshot.gif)
 
 ### description
-Generative eternal animation of drawing colorful squares.
+Endless generative animation drawing colorful squares.
 
 ### usage
 
