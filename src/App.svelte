@@ -16,13 +16,16 @@
 			background: '#f2e8e4',
 		}, {
 			name: 'sakura',
-			colors: ['#D30068', '#92EC00', '#00C12B', '#F0FC00'],
-			background: '#1B172A',
-		},
-		{
+			colors: ['#D791B9', '#D7F2A3', '#91D791', '#FFFFAC'],
+			background: '#38382F',
+		}, {
 			name: 'winter-night',
 			colors: ['#122438', '#dd672e', '#87c7ca', '#ebebeb'],
 			background: '#ebebeb',
+		}, {
+			name: 'plateau',
+			colors: ['#7F874C', '#E7BF7A', '#D1BC7B', '#A7AA7F'],
+			background: '#452B46',
 		}, {
 			name: 'saami',
 			colors: ['#eab700', '#e64818', '#2c6393', '#eecfca'],
