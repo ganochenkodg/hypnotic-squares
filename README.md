@@ -1,6 +1,8 @@
 # hypnotic squares
 [DEMO HERE](https://hypnotic-squares.netlify.app)
 
+![](https://github.com/ganochenkodg/hypnotic-squares/blob/main/screenshot.gif)
+
 ### description
 Generative eternal animation of drawing colorful squares.
 

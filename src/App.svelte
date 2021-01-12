@@ -303,7 +303,6 @@
 		}
 		size = window.innerWidth < window.innerHeight ? window.innerWidth - canvasPadding : window.innerHeight - canvasPadding;
 //		dpr = window.devicePixelRatio;
-
 		canvas.width = size;
 		canvas.height = size ;
 //		context.scale(dpr, dpr);
