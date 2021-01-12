@@ -324,6 +324,7 @@
 		}
 		context.beginPath();
 		context.rect(x, y, width, height);
+		context.strokeStyle = palette.background;
 		context.fillStyle = selectColor();
 		context.fill();
 		context.stroke();
